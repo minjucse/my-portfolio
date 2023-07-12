@@ -1,29 +1,29 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import data from "../../pages/CustomHooks/useDataHooks";
+import data from "../CustomHooks/useDataHooks";
 
 const Details = () => {
     const { detailId } = useParams();
     const project = data.find((p) => p.id === detailId);
-    
+
   return (
     <div>
-            <div class="carousel w-full">
-                <div id="item1" class="carousel-item w-full">
-                    <img src={project.img1} class="w-full" alt='' />
+            <div className="carousel w-full">
+                <div id="item1" className="carousel-item w-full">
+                    <img src={project.img1} className="w-full" alt='' />
                 </div>
 
-                <div id="item3" class="carousel-item w-full">
-                    <img src={project.img2} class="w-full" alt='' />
+                <div id="item3" className="carousel-item w-full">
+                    <img src={project.img2} className="w-full" alt='' />
                 </div>
-                <div id="item4" class="carousel-item w-full">
-                    <img src={project.img3} class="w-full" alt='' />
+                <div id="item4" className="carousel-item w-full">
+                    <img src={project.img3} className="w-full" alt='' />
                 </div>
             </div>
-            <div class="flex justify-center w-full py-2 gap-2">
-                <a href="#item1" class="btn btn-xs">1</a>
-                <a href="#item2" class="btn btn-xs">2</a>
-                <a href="#item3" class="btn btn-xs">3</a>
+            <div className="flex justify-center w-full py-2 gap-2">
+                <a href="#item1" className="btn btn-xs">1</a>
+                <a href="#item2" className="btn btn-xs">2</a>
+                <a href="#item3" className="btn btn-xs">3</a>
             </div>
             <h1 className="text-3xl font-bold my-4 text-white">{project.name}</h1>
             <p>{project.about}</p>

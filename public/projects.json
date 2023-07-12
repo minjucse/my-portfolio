@@ -1,37 +1,38 @@
 [
     {
         "id": 1,
-        "name": "Bicycle",
-        "theme": "Bicycle Parts Manufacture",
+        "name": "AM Drawing School",
+        "theme": "Summer Camp",
         "img": "https://i.ibb.co/ZTPmxRL/img.png",
         "img2": "https://i.ibb.co/HXrDm6t/img2.png",
         "img3": "https://i.ibb.co/cbsRRv9/img3.png",
-        "live": "https://bicycle-manufacture.web.app/",
-        "technology": "React js, TailwindCss, Node js, Express Js, MongoDB, Jwt, Firebase, Heroku, stripe",
-        "client": "https://github.com/nurulamin092/manufacture-webapp-client",
-        "server": "https://github.com/nurulamin092/-manufacture-webapp-server"
+        "live": "https://summer-camp-39be2.web.app/",
+        "technology": "React js, Tailwind CSS  and daisyUI components, Node js, Express Js, MongoDB, Jwt, Firebase, Vercel, stripe",
+        "client": "https://github.com/minjucse/summer-camp-client-side",
+        "server": "https://github.com/minjucse/summer-camp-server-side"
     },
     {
         "id": 2,
-        "name": "Laptop",
-        "theme": "Warehouse management",
+        "name": "Arts Toy",
+        "theme": "Toy Market",
         "img": "https://i.ibb.co/W0Rzmd1/img.png",
         "img2": "https://i.ibb.co/tYGyQ6f/img2.png",
         "img3": "https://i.ibb.co/vCFFLHR/img3.png",
-        "live": "https://laptop-warehouse-9b862.web.app/",
-        "technology": "React js,React Bootstrap,  Node js, Express Js, MongoDB,  Firebase, Heroku",
-        "client": "https://github.com/nurulamin092/warehouse-management-client",
-        "server": "https://github.com/nurulamin092/warehouse-management-server"
+        "live": "https://toy-emart.web.app/",
+        "technology": "React js,Tailwind CSS  and daisyUI components,  Node js, Express Js, MongoDB,Jwt, Firebase, Vercel",
+        "client": "https://github.com/minjucse/toy-marketplace-client-side",
+        "server": "https://github.com/minjucse/toy-marketplace-server-side"
     },
     {
         "id": 3,
-        "name": "Tooth Routine exams",
-        "theme": "Doctor Service",
+        "name": "Delicious Food",
+        "theme": "Food Recipe",
         "img": "https://i.ibb.co/jwDsPr7/img.png",
         "img2": "https://i.ibb.co/0nh5djM/img2.png",
         "img3": "https://i.ibb.co/PCLqKdV/img3.png",
-        "live": "https://doctor-service-provider.web.app/",
-        "technology": "React js,React Bootstrap, TailwindCss,Firebase",
-        "client": "https://github.com/nurulamin092/doctor-service-client"
+        "live": "https://chef-recipe-hunter-3afab.web.app/",
+        "technology": "React js,React Bootstrap,Node js, Express Js ,Firebase, Vercel",
+        "client": "https://github.com/minjucse/chef-recipe-hunter-client-side",
+        "server": "https://github.com/minjucse/chef-recipe-hunter-server-side"
     }
 ]
