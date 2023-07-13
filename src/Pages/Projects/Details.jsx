@@ -13,10 +13,10 @@ const Details = () => {
                     <img src={project.img1} className="w-full" alt='' />
                 </div>
 
-                <div id="item3" className="carousel-item w-full">
+                <div id="item2" className="carousel-item w-full">
                     <img src={project.img2} className="w-full" alt='' />
                 </div>
-                <div id="item4" className="carousel-item w-full">
+                <div id="item3" className="carousel-item w-full">
                     <img src={project.img3} className="w-full" alt='' />
                 </div>
             </div>

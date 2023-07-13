@@ -1,16 +1,16 @@
 const data = [
     {
         id: "1",
-        name: "Bicycle",
+        name: "AM Drawing School",
         about: "this website use font end react js and use for style tailwind css backend express js frame work of node js and server side mongodb   this website has user login and signup this website use for cart parts buying user can order parts and pay for this order user can gave review this review show in home page this websie also admin panel   admin can make admin and remove admin  admin can hanlde all orders and all products  thi website use some animationthis website use stripe payment method",
         picture: "https://i.ibb.co/XYPBzqk/Screenshot-2022-06-09-183200.png",
         link: "https://summer-camp-39be2.web.app/",
         client: "https://github.com/minjucse/summer-camp-client-side",
         server: "https://github.com/minjucse/summer-camp-server-side",
         technology: "React js, Tailwind CSS  and daisyUI components, Node js, Express Js, MongoDB, Jwt, Firebase, Vercel, stripe",
-        img1: "https://i.ibb.co/ZTPmxRL/img.png",
-        img2: "https://i.ibb.co/HXrDm6t/img2.png",
-        img3: "https://i.ibb.co/cbsRRv9/img3.png"
+        img1: "/images/amImg1.png",
+        img2: "/images/amImg2.png",
+        img3: "/images/amImg3.png"
     },
     {
         id: "2",
@@ -21,9 +21,9 @@ const data = [
         client: "https://github.com/minjucse/toy-marketplace-client-side",
         server: "https://github.com/minjucse/toy-marketplace-server-side",
         technology: "React js,Tailwind CSS  and daisyUI components,  Node js, Express Js, MongoDB,Jwt, Firebase, Vercel",
-        img1: "https://i.ibb.co/W0Rzmd1/img.png",
-        img2: "https://i.ibb.co/tYGyQ6f/img2.png",
-        img3: "https://i.ibb.co/vCFFLHR/img3.png"
+        img1: "/images/toyImg1.png",
+        img2: "/images/toyImg2.png",
+        img3: "/images/toyImg3.png"
     },
     {
         id: "3",
@@ -34,9 +34,9 @@ const data = [
         server: "https://github.com/minjucse/chef-recipe-hunter-server-side",
         picture: "https://i.ibb.co/Cs4TczN/Screenshot-2022-06-09-183625.png",
         technology: "React js,React Bootstrap,Node js, Express Js ,Firebase, Vercel",
-        img1: "https://i.ibb.co/jwDsPr7/img.png",
-        img2: "https://i.ibb.co/0nh5djM/img2.png",
-        img3: "https://i.ibb.co/PCLqKdV/img3.png"
+        img1: "/images/foodimg1.png",
+        img2: "/images/foodimg2.png",
+        img3: "/images/foodimg3.png"
     }
 
 ]
